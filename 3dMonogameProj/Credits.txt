@@ -1,0 +1,56 @@
+Textures from Textures.com Used with permission.
+
+Audio From Freesound.org:
+
+Swoosh SFX By AudioPapkin 
+https://freesound.org/people/AudioPapkin/sounds/444640/ (Creative Commons)
+
+Wind through the trees by spoon bender.
+CC 4.0 License https://freesound.org/people/spoonbender/sounds/244942/
+
+Snowboard Pack by Nox_Sound 
+https://freesound.org/people/spoonbender/sounds/244942/ (Creative Commons)
+
+Sound pack downloaded from Freesound
+----------------------------------------
+
+"Pack - Snowboard"
+
+This pack of sounds contains sounds by the following user:
+ - Nox_Sound ( https://freesound.org/people/Nox_Sound/ )
+
+You can find this pack online at: https://freesound.org/people/Nox_Sound/packs/33765/
+
+
+Pack description
+----------------
+
+Snowboard Recordings
+
+
+Licenses in this pack (see below for individual sound licenses)
+---------------------------------------------------------------
+
+Creative Commons 0: http://creativecommons.org/publicdomain/zero/1.0/
+
+
+Sounds in this pack
+-------------------
+
+  * 667729__nox-sound__foley-object-snowboard-sequence-mono.wav
+    * url: https://freesound.org/s/667729/
+    * license: Creative Commons 0
+  * 612665__nox-sound__foley-object-snowboard-slide-loop-mono-01.wav
+    * url: https://freesound.org/s/612665/
+    * license: Creative Commons 0
+  * 612664__nox-sound__foley-object-snowboard-slide-loop-mono-02.wav
+    * url: https://freesound.org/s/612664/
+    * license: Creative Commons 0
+  * 612663__nox-sound__foley-object-snowboard-slide-loop-mono-03.wav
+    * url: https://freesound.org/s/612663/
+    * license: Creative Commons 0
+  * 612662__nox-sound__foley-object-snowboard-slide-loop-mono-04.wav
+    * url: https://freesound.org/s/612662/
+    * license: Creative Commons 0
+
+
